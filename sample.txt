@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hello, World!</title>
-    <h1>hello world</h1><br>
+    <title>SAM 07</title>
+    <h1>hello GUYS</h1><br>
     <p>this a paragraph command 
     headh
     </p><br>
-    <body style="background-color: red;">
+    <body style="background-color: yellow;">
  <b> used to bold the text</b><br>
  <i> italic font</i><br>
  <u>underline the text or content</u><br>
